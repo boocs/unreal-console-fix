@@ -1,3 +1,21 @@
+```
+
+
+
+
+```
+
+
+## `VSCode v1.87.0 has fixed this.` This extension is no longer needed!
+
+```
+
+
+
+
+
+
+```
 # unreal-console-fix README
 
 This is for Unreal. `This extension can be removed once VSCode fixes the bug.`
